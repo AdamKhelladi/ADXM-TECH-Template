@@ -2,7 +2,7 @@
 :root {
   --main-color: #2196f3;
   --secondary-color: #006fca;
-  --main-transition: .3s;
+  --main-transition: .3s; 
   --section-background: #ececec;
   --section-padding: 100px; 
 }
